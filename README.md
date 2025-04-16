@@ -6,7 +6,7 @@ by *Dogbalou Motognon Wastalas d’Assise, Alex Rodriguez, Danilo Lewanski, Otie
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This study explores the use of Large Language Models (LLMs), specifically OpenAI’s GPT-4o, to classify student errors in mathematics assessments within the STACK system. It applies **Newman’s Error Analysis (NEA)** framework to categorize student errors into cognitive stages and explores how LLMs can support scalable, personalized feedback in African university classrooms.
 
