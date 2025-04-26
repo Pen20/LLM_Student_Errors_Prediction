@@ -2,7 +2,7 @@
 
 This repository accompanies the academic paper:  
 **"Leveraging Large Language Models to Identify and Classify Student Errors in Higher Education Mathematics Using the STACK Dataset"**  
-by *Dogbalou Motognon Wastalas d’Assise, Alex Rodriguez, Danilo Lewanski, Otieno Herine, Prof Lawi, and Michael Kallweit*
+by *Dogbalou Motognon Wastalas d’Assise, Alex Garcia Rodriguez, Otieno Herine, Lawi George, Danilo Lewanski*
 
 ---
 
